@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\tzanani\Desktop\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.android.support\support-v13\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="076c7d9e22cc325b8008ff799e0c06dfb8eefdf3">
+        <dex dex="C:\Users\tzanani\Desktop\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-71a839a9c487a9c0e71d36cff4e95c2984a81b2b.jar" />
+    </item>
+    <item
+        jar="C:\Users\tzanani\Desktop\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="C:\Users\tzanani\Desktop\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-31c4e5adb47d2ea93ee967d95301f7f4f37030e5.jar" />
+    </item>
+    <item
+        jar="C:\Users\tzanani\Desktop\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.android.support\support-v13\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1a57337a520bf40b9ad1e074cb780527dffa1aac">
+        <dex dex="C:\Users\tzanani\Desktop\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\classes-cb1ea5c98e7a965dc17481c3aead3db36b4ffdc5.jar" />
+    </item>
+    <item
+        jar="C:\Users\tzanani\Desktop\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="C:\Users\tzanani\Desktop\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\classes-d346db8dab372b97faca7a391a59302966e18c8a.jar" />
+    </item>
+    <item
+        jar="C:\Users\tzanani\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="C:\Users\tzanani\Desktop\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\support-annotations-23.1.0-b415d3def39d5e465d780ba1054390258b3d390e.jar" />
+    </item>
+    <item
+        jar="C:\Users\tzanani\Desktop\BluetoothLeGatt\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d96886efea7cc74fbb3abd0e3b51d5638fc57be0">
+        <dex dex="C:\Users\tzanani\Desktop\BluetoothLeGatt\Application\build\intermediates\pre-dexed\debug\classes-453f351f2bb42522e1e008600e54132b9df4fb8e.jar" />
+    </item>
+
+</items>
